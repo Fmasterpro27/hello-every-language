@@ -12,6 +12,16 @@ This project was created just for fun. The goal is to collect as many **Hello, W
 - C#
 - Rust
 - Lua
+- Kotlin
+- Java
+- Powershell
+- Shell
+- HTML
+- Swift
+- Basic
+- Batch
+- Assembly
+- TCL
 - JavaScript
   - Vanilla JavaScript
   - React
