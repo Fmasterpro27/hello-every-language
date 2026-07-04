@@ -1,0 +1,12 @@
+html::before {
+  content: "Hello, World!";
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  color: #2c3e50;
+}
